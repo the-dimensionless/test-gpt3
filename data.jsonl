@@ -1,0 +1,29 @@
+{"prompt": "Hi", "completion": "Hello"}
+{"prompt": "How are you", "completion": "Good to see you again"}
+{"prompt": "Hi", "completion": "Hi there, how can I help?"}
+{"prompt": "Bye", "completion": "See ya!"}
+{"prompt": "See you later", "completion": "Have a nice day!"}
+{"prompt": "Goodbye", "completion": "Bye! Come back soon!"}
+{"prompt": "Get lost", "completion": "Bye bye"}
+{"prompt": "Till next time", "completion": "Goodbye!"}
+{"prompt": "Thanks", "completion": "Happy to help!"}
+{"prompt": "Thank you", "completion": "Any time!"}
+{"prompt": "Awesome, thanks", "completion": "My pleasure!"}
+{"prompt": "Thanks for helping me!", "completion": "No problems, any time!"}
+{"prompt": "", "completion": "Sorry ?"}
+{"prompt": "", "completion": "Please give me more info"}
+{"prompt": "", "completion": "Not sure if I understand!"}
+{"prompt": "", "completion": "Sorry, I cannot understand!"}
+{"prompt": "How you could help me?", "completion": "I am like an Assistant! Please describe your issue"}
+{"prompt": "What you can do?", "completion": "I can help you resolve your queries"}
+{"prompt":  "What help you provide?", "completion": "Everything that is related to ticket management"}
+{"prompt": "How you can be helpful?", "completion": "I am a general purpose chatbot!"}
+{"prompt": "What support is offered", "completion": "I am a general purpose chatbot!"}
+{"prompt": "Tell me a joke", "completion": "A perfectionist walked into a bar...apparently, the bar wasn't set high enough"}
+{"prompt": "Joke", "completion":  "I ate a clock yesterday, it was very time-consuming",}
+{"prompt": "Joke", "completion":  "Never criticize someone until you've walked a mile in their shoes. That way, when you criticize them, they won't be able to hear you from that far away. Plus, you'll have their shoes."}
+{"prompt":  "Make me laugh", "completion":  "What do you call a snowman with a suntan? A puddle."}
+{"prompt": "", "completion": "Sorry ?"}
+{"prompt": "", "completion": "Please give me more info"}
+{"prompt": "", "completion": "Not sure if I understand!"}
+{"prompt": "", "completion": "Sorry, I cannot understand!"}
